@@ -1,0 +1,106 @@
+html {
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px 10px;
+  color:#999999;
+  font-size: 28px;
+  font-weight: bold;
+  margin: auto;
+
+}
+
+h2 {
+  text-align: left;
+  padding: 10px 10px;
+  color:#999999;
+  font-size: 22px;
+  font-weight:bold;
+  margin: auto;
+}
+
+img {
+  width:300px;
+}
+
+li {
+  list-style: circle outside url("icon_list.png");
+  padding:5px 0px 5px 0px;
+  font-size: 14px;
+}
+
+a:link {
+  color: #17A1BF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #7F8F93;
+  text-decoration: none;
+}
+
+p {
+  padding:10px 10px;
+  font-size: 12px;
+}
+
+sup {
+  font-size: 9px;
+}
+
+#wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+    width: 310px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 8px #666666;
+}
+
+.header {
+  float:left;
+  padding:20px 20px;
+}
+
+.animal_type img {
+  width: 50px;
+  float:right;
+  margin: 20px;
+}
+
+.img_main img {
+  margin:5px;
+  text-align: center;
+  object-fit: fill;
+  border-radius: 2px;
+
+}
+
+.content_wrapper {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin:5px;
+}
+
+.main_box {
+  background-color:#ffffff;
+}
+
+.footer {
+  padding: 10px 10px;
+  text-align: center;
+}
+
+.footer p {
+  padding: 5px 5px;
+}
