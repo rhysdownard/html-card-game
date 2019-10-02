@@ -5,7 +5,11 @@ This is a template project as part of the Udacity Introduction to programming co
 ## Files
 
 There are all the element files needed to populate the page including a main image, a Favicon and icons for the bullet points.
-These can be replaced in the HTML with new elements as needed and referenced accordingly to change the image layout
+These can be replaced in the HTML with new elements as needed and referenced accordingly to change the image layout.
+
+The index.html file contains the page structure.
+
+Page styles can be edited in the CSS file.
 
 ## Installation
 
